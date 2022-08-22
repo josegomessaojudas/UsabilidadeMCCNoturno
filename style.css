@@ -1,0 +1,23 @@
+/*selecionamos os elementos h1 aqui*/
+h1 {
+    color: yellow;
+}
+
+#titulo {
+    text-align: center;
+    border-bottom: 10px dashed black;
+    color: blueviolet;
+    background-color: lightsalmon;
+}
+
+/*aqui selecionamos os elementos p*/
+p {
+    color: blue;
+    text-align: center;
+    border: solid 1px black;
+}
+
+mark {
+    color: blueviolet;
+    background-color: rgba(251, 4, 4, 0.871);
+}
