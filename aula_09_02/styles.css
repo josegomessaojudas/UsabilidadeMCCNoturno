@@ -1,0 +1,75 @@
+#titulo {
+  color: yellow;
+  text-align: center;
+}
+
+/* p {
+  color: blue;
+  border: solid 1px black;  
+} */
+strong {
+  color: blueviolet;
+  background-color: aliceblue;
+}
+
+p#descricao {
+  text-align: center;
+}
+
+p.promocao {
+  text-align: center;
+  background-color: beige;
+}
+
+#principal p.promocao {
+  padding: 12px;
+  border-bottom: #CCC 1px solid;
+}
+
+.nova {
+  color: red;
+}
+
+p.final-pagina#rodape {
+  border-bottom: 1px solid black;
+  background-color: #CCC;
+  padding: 12px;
+  text-align: center;
+}
+
+.curso,
+.novo-curso,
+#contato {
+  background-color: aliceblue;
+}
+
+.novo-curso {
+  color: red;
+}
+
+.coordenadores {
+  background-color: rgb(59, 53, 53);
+}
+
+body #principal article section p.coordenadores {
+  text-align: right;
+  background-color: chartreuse;
+}
+
+article>p {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+main>article section>p.coordenadores {
+  font-weight: bold;
+}
+
+/* .curso{
+  background-color: aliceblue;
+}
+
+.novo-curso{
+  background-color: aliceblue;
+  color: red;
+} */
